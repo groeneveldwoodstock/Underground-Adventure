@@ -8,3 +8,9 @@
 <br>
 <img src="https://github.com/groeneveldwoodstock/Underground-Adventure/blob/main/cover.png" alt="game image">
   </body>
+<p>
+This project is available on Itch.io
+</p>
+
+[![Underground Adventure by Groeneveld](https://github.com/groeneveldwoodstock/Underground-Adventure/blob/main/underground.itch.png)](https://groeneveld.itch.io/underground-adventure)
+</p>
